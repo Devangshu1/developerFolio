@@ -6,7 +6,6 @@ import emoji from "react-easy-emoji";
 import splashAnimation from "./assets/lottie/splashAnimation"; // Rename to your file name for custom animation
 
 // Splash Screen
-
 const splashScreen = {
   enabled: true, // set false to disable splash screen
   animation: splashAnimation,
@@ -14,7 +13,6 @@ const splashScreen = {
 };
 
 // Summary And Greeting Section
-
 const illustration = {
   animated: true // Set to false to use static SVG
 };
@@ -31,7 +29,6 @@ const greeting = {
 };
 
 // Social Media Links
-
 const socialMediaLinks = {
   github: "https://github.com/devangshu1",
   linkedin: "https://www.linkedin.com/in/devangshu-singh-11391a225/",
@@ -46,7 +43,6 @@ const socialMediaLinks = {
 };
 
 // Skills Section
-
 const skillsSection = {
   title: "What I do",
   subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
@@ -61,7 +57,7 @@ const skillsSection = {
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
-https://fontawesome.com/icons?d=gallery */
+  https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
@@ -121,7 +117,6 @@ https://fontawesome.com/icons?d=gallery */
 };
 
 // Education Section
-
 const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
@@ -148,7 +143,6 @@ const educationInfo = {
 };
 
 // Your top 3 proficient stacks/tech experience
-
 const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
@@ -169,7 +163,6 @@ const techStack = {
 };
 
 // Work experience section
-
 const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
@@ -210,7 +203,6 @@ const openSource = {
 };
 
 // Some big projects you have worked on
-
 const bigProjects = {
   title: "Big Projects",
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
@@ -244,7 +236,6 @@ const bigProjects = {
 
 // Achievement Section
 // Include certificates, talks etc
-
 const achievementSection = {
   title: emoji("Achievements And Certifications 🏆 "),
   subtitle:
@@ -304,7 +295,6 @@ const achievementSection = {
 };
 
 // Blogs Section
-
 const blogSection = {
   title: "Blogs",
   subtitle:
@@ -328,7 +318,6 @@ const blogSection = {
 };
 
 // Talks Sections
-
 const talkSection = {
   title: "TALKS",
   subtitle: emoji(
@@ -347,7 +336,6 @@ const talkSection = {
 };
 
 // Podcast Section
-
 const podcastSection = {
   title: emoji("Podcast 🎙️"),
   subtitle: "I LOVE TO TALK ABOUT MYSELF AND TECHNOLOGY",
@@ -363,8 +351,6 @@ const podcastSection = {
 const resumeSection = {
   title: "Resume",
   subtitle: "Feel free to download my resume",
-
-  // Please Provide with Your Podcast embeded Link
   display: true // Set false to hide this section, defaults to true
 };
 
@@ -377,7 +363,6 @@ const contactInfo = {
 };
 
 // Twitter Section
-
 const twitterDetails = {
   userName: "DevangshuS89817", //Replace "twitter" with your twitter username without @
   display: true // Set true to display this section, defaults to false
