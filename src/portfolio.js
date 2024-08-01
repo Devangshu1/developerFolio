@@ -36,12 +36,11 @@ const socialMediaLinks = {
   gitlab: "https://gitlab.com/singhdevangshu",
   facebook: "https://www.facebook.com/devangshusingh",
   medium: "https://medium.com/@singhdevangshu",
-  stackoverflow: "https://stackoverflow.com/users/26598401/devangshu-singh"
+  stackoverflow: "https://stackoverflow.com/users/26598401/devangshu-singh",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
 };
-
 // Skills Section
 const skillsSection = {
   title: "What I do",
