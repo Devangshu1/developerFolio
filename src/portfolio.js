@@ -49,7 +49,7 @@ const skillsSection = {
     emoji(
       "⚡ Develop highly interactive mobile application and websites",
     ),
-    emoji("⚡ Progressive Web Applications with node js",
+    emoji("⚡ Progressive Web Applications with node js"),
     emoji(
       "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
     )
