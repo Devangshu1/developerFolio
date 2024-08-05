@@ -47,9 +47,9 @@ const skillsSection = {
   subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji(
-      "⚡ Develop highly interactive mobile application and websites"
+      "⚡ Develop highly interactive mobile application and websites",
     ),
-    emoji("⚡ Progressive Web Applications with node js"
+    emoji("⚡ Progressive Web Applications with node js",
     emoji(
       "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
     )
