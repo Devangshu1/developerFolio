@@ -49,7 +49,7 @@ const skillsSection = {
     emoji(
       "⚡ Develop highly interactive mobile application and websites"
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    emoji("⚡ Progressive Web Applications with node js,
     emoji(
       "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
     )
@@ -120,23 +120,23 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Harvard University",
-      logo: require("./assets/images/harvardLogo.png"),
-      subHeader: "Master of Science in Computer Science",
-      duration: "September 2017 - April 2019",
-      desc: "Participated in the research of XXX and published 3 papers.",
+      schoolName: "Noida Institute of engineering & technology",
+      logo: require("./assets/images/NIET.png"),
+      subHeader: "Bachelor of Computr Science & engineering",
+      duration: "November 2021 - August 2025",
+      desc: ""Finalist in Smart India Hackathon (SIH2023) and recipient of multiple awards for excellence in coding and web development."",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Won the II prize in the Hack and Chill Hackathon organized by Google Developer Student Clubs (GDSC)."
+        "President of CSI ( Computer Scoiety of India) chapters 2022-2024"
       ]
     },
     {
-      schoolName: "Stanford University",
-      logo: require("./assets/images/stanfordLogo.png"),
-      subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - April 2017",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      schoolName: "Jagran Public School",
+      logo: require("./assets/images/jps.jpg"),
+      subHeader: "X & XII",
+      duration: "March 2019 - April 2021",
+      desc: "Scored 90% in X and 85 % in XII",
+      descBullets: ["President of IT Club"]
     }
   ]
 };
@@ -166,29 +166,29 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      role: "Web Developer",
+      company: "Zidio",
+      companylogo: require("./assets/images/zidio.png"),
+      date: "July 2024 – Present",
+      desc: "Internship",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Developed and maintained responsive websites, ensuring cross-browser compatibility and optimal performance.",
+        "Collaborated with a team of developers to implement new features and optimize existing codebases for enhanced user experience."
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Web Developer",
+      company: "Diginet Solutions",
+      companylogo: require("./assets/images/diginet.png"),
+      date: "December 2022 - May 2024",
+      desc: "Part Time"
     },
     {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Python Developer",
+      company: "Intern'spedia",
+      companylogo: require("./assets/images/internspedia.jpg"),
+      date: "October 2022 - Novemeber 2022",
+      desc: "Internship"
     }
   ]
 };
