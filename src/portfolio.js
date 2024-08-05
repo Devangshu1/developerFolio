@@ -124,9 +124,9 @@ const educationInfo = {
       logo: require("./assets/images/NIET.png"),
       subHeader: "Bachelor of Computr Science & engineering",
       duration: "November 2021 - August 2025",
-      desc: ""Finalist in Smart India Hackathon (SIH2023) and recipient of multiple awards for excellence in coding and web development."",
+      desc: "Finalist in Smart India Hackathon (SIH2023) and recipient of multiple awards for excellence in coding and web development.",
       descBullets: [
-        "Won the II prize in the Hack and Chill Hackathon organized by Google Developer Student Clubs (GDSC)."
+        "Won the II prize in the Hack and Chill Hackathon organized by Google Developer Student Clubs (GDSC).",
         "President of CSI ( Computer Scoiety of India) chapters 2022-2024"
       ]
     },
