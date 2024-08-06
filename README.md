@@ -35,7 +35,7 @@ If you want to run this project locally, follow these steps:
 **Clone the repository**
    ```bash
    git clone https://github.com/Devangshu1/MyPortfolio.git
-<h1>CMD Commands
+
 - cd MyportFolio (or whaterver the name you saved it with)
 npm insall
 npm audit fix --force
