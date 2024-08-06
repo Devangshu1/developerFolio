@@ -207,7 +207,7 @@ const bigProjects = {
   subtitle: "My Big Projects that have a capabilty to change the world",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
+      image: require("./assets/images/Alert.png"),
       projectName: "Alert X",
       projectDesc: "A complete Application for all the disasters.",
       footerLink: [
@@ -219,7 +219,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
+      image: require("./assets/images/logo.png"),
       projectName: "A week that's it",
       projectDesc: "A complete 7 day guide to change your career path",
       footerLink: [
