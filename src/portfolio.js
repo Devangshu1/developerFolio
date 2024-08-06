@@ -181,14 +181,22 @@ const workExperiences = {
       company: "Diginet Solutions",
       companylogo: require("./assets/images/diginet.png"),
       date: "December 2022 - May 2024",
-      desc: "Part Time"
+      desc: "Part Time",
+      descBullets: [
+        "Developed and customized WordPress themes and plugins to enhance website functionality and user experience.",
+        "Collaborated with design and content teams to implement responsive web designs, ensuring cross-platform compatibility and SEO optimization."
+      ]
     },
     {
       role: "Python Developer",
       company: "Intern'spedia",
       companylogo: require("./assets/images/internspedia.jpg"),
       date: "October 2022 - Novemeber 2022",
-      desc: "Internship"
+      desc: "Internship",
+      descBullets: [
+        "Built and optimized Python scripts for data analysis and automation tasks, improving operational efficiency.",
+        "Assisted in the development of a sentiment analysis tool using Python's NLTK and scikit-learn libraries, enhancing the company's ability to gauge social media trends."
+      ]
     }
   ]
 };
